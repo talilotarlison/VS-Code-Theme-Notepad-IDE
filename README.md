@@ -8,9 +8,9 @@ Este projeto apresenta uma proposta de tema para deixar a interface de edição 
 
 ## Instalação
 
-> **Importante:** no momento, o repositório contém apenas esta documentação e a imagem `screenshot.png`. Ainda não há um arquivo de tema (`.xml`) para instalar. Para aplicar o tema, será necessário adicionar ou obter esse arquivo primeiro.
+> **Importante:**  o repositório contém esta documentação e a imagem `screenshot.png`. há um arquivo de tema (`Visual Studio Code.xml`) para instalar. Para aplicar o tema, será necessário adicionar ou obter esse arquivo primeiro.
 
-Quando o arquivo `.xml` do tema estiver disponível, siga estes passos:
+Quando baixar o arquivo `.xml` do tema em sua maquina, siga estes passos:
 
 1. Feche o Notepad++.
 2. Baixe o arquivo `.xml` do tema.
